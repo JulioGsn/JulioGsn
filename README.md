@@ -1,5 +1,5 @@
 ### Hello 0/ 😁
-### My name is Júlio Gomes and I'm proud to share a some of my work as a software developer
+My name is **Júlio Gomes** and I'm proud to share some of my work as a software developer
 - [Linkedin](https://www.linkedin.com/in/juliogsn/)
 
 ---
