@@ -6,6 +6,7 @@ My name is **Júlio Gomes** and I'm proud to share some of my work as a software
 
 ### Me
 - 🤓 Graduating in computer sciense at [UFERSA](https://ufersa.edu.br/)
+- 💻 [SuperOne](https://superone.com.br/) (2021-atual)
 - 💻 [Ponto Criativo](https://pontocriativo.com.br/) (2020-2021)
 - 💻 Macambit Software Freelancer (2019-2020)
 
