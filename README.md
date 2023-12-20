@@ -20,5 +20,4 @@ My name is **Júlio Gomes** and I'm proud to share some of my work as a software
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### For job reasons, I also use *Gitlab* and I'm more active there... See my contributions in private projects in *Gitlab* in 2023 :)
-![Alt Text](./gitlab_contrib_juliogsn.png)
+#### For job reasons, I also use *Gitlab* and I'm more active there... :)
